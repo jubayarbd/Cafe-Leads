@@ -21,7 +21,7 @@ export default function Subscribe() {
 
                         <p className="text-gray-600 mt-6 max-w-[420px] leading-relaxed max-sm:text-[13px] max-sm:mt-4 max-sm:max-w-full">
                             Excellent service and the tastiest lamb vindaloo I've ever tasted!
-                            Leads Eatery is my new favourite curry restaurant, and I heartily
+                            Cafe Leads is my new favourite curry restaurant, and I heartily
                             suggest it.
                         </p>
 

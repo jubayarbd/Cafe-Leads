@@ -9,7 +9,7 @@ export default function Testimonials() {
 
     const testimonials = [
         {
-            text: "Excellent service and the tastiest lamb vindaloo I've ever tasted! Leads Eatery is my new favourite curry restaurant.",
+            text: "Excellent service and the tastiest lamb vindaloo I've ever tasted! Cafe Leads is my new favourite curry restaurant.",
             name: "Finley Topping",
             location: "87b Shacklewell Ln",
             image: "/images/avatar1.jpg"

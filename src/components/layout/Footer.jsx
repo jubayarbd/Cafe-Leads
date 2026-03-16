@@ -133,7 +133,7 @@ export default function Footer() {
 
                 <div className="border-t-2 border-white/50 pt-6 pb-6 flex justify-between text-sm text-white/80 max-md:flex-col max-md:items-center max-md:gap-2">
 
-                    <p>© 2025 LeadsEatery UK.</p>
+                    <p>© 2026 CafeLeads UK.</p>
 
                     <p>All rights reserved.</p>
 

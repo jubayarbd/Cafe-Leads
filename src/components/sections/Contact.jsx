@@ -24,7 +24,7 @@ export default function Contact() {
                         </h2>
                         <p className="mt-3 text-gray-700 leading-relaxed max-w-2xl max-sm:text-sm text-[15px]">
                             Excellent service and the tastiest lamb vindaloo I've ever tasted!
-                            Leads Eatery is my new favourite curry restaurant, and I heartily suggest it.
+                            Cafe Leads is my new favourite curry restaurant, and I heartily suggest it.
                         </p>
                     </div>
 
