@@ -20,7 +20,7 @@ export default function Footer() {
                     <div className="max-md:flex max-md:flex-col max-md:items-center">
 
                         <Image
-                            src="/images/logo-white.png"
+                            src="/images/logo.png"
                             width={140}
                             height={40}
                             alt="logo"
