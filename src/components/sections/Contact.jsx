@@ -10,7 +10,7 @@ export default function Contact() {
                 {/* MAP */}
                 <div className="w-full mb-16 max-md:mb-10 max-sm:mb-8">
                     <iframe
-                        src="https://www.google.com/maps?q=Leads%20Eatery%20Indian%20Restaurant%20%26%20Takeaway&output=embed"
+                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2143.25439183633!2d-0.06142742402734795!3d51.51901510985557!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761ccdf4cf5595%3A0x8492c483fa63141f!2sCafe%20Leads!5e1!3m2!1sen!2sbd!4v1773649048065!5m2!1sen!2sbd"
                         className="w-full h-[350px] rounded-3xl shadow-[0_0_15px_rgba(0,0,0,0.05)] border-4 border-white max-md:h-[300px] max-sm:h-[250px]"
                         loading="lazy"
                     ></iframe>
