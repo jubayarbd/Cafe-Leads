@@ -59,7 +59,7 @@ export default function Welcome() {
                         </div>
 
                         {/* Action Buttons (191x48) */}
-                        <div className="flex flex-wrap gap-4 mt-10">
+                        <div className="flex flex-wrap gap-4 mt-10 max-md:justify-center">
                             <Button
                                 variant="primary"
                                 icon={ConciergeBell}
